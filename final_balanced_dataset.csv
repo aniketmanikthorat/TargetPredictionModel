@@ -1,0 +1,441 @@
+shooter_experience,distance_to_target,wind_speed,wind_direction,is_target_moving,target_speed,time_of_day,weapon_type,target_hit
+Expert,341,30.1,Tailwind,True,16.0,Noon,Assault Rifle,False
+New,426,27.1,Crosswind,False,0.0,Noon,Assault Rifle,False
+Expert,590,16.7,Headwind,True,24.0,Morning,Assault Rifle,True
+Intermediate,945,14.8,Headwind,True,8.6,Morning,Assault Rifle,False
+Expert,200,33.2,Headwind,True,24.5,Noon,Sniper,True
+Intermediate,564,15.0,Tailwind,True,11.2,Morning,Assault Rifle,False
+Expert,715,13.4,Headwind,True,1.1,Noon,Handgun,False
+Expert,530,17.9,Headwind,True,0.6,Morning,Sniper,True
+Expert,673,21.1,Headwind,False,0.0,Morning,Assault Rifle,True
+New,479,25.6,Crosswind,False,0.0,Morning,Sniper,False
+Intermediate,661,21.4,Crosswind,True,21.6,Noon,Assault Rifle,True
+Intermediate,296,22.8,Headwind,True,15.7,Noon,Sniper,False
+Expert,569,31.5,Crosswind,True,11.7,Noon,Sniper,False
+Intermediate,309,29.9,Tailwind,True,10.3,Night,Handgun,False
+Expert,802,30.3,Headwind,True,10.6,Noon,Handgun,True
+Expert,525,39.2,Tailwind,True,24.3,Morning,Handgun,False
+Intermediate,87,11.7,Headwind,True,26.6,Noon,Assault Rifle,True
+Expert,534,10.1,Crosswind,True,8.6,Morning,Handgun,False
+New,868,14.7,Tailwind,False,0.0,Noon,Assault Rifle,False
+Intermediate,758,19.9,Crosswind,False,0.0,Morning,Handgun,False
+Intermediate,666,39.8,Headwind,False,0.0,Noon,Sniper,True
+Expert,352,12.3,Crosswind,False,0.0,Morning,Handgun,True
+Intermediate,93,29.1,Tailwind,False,0.0,Noon,Handgun,False
+New,126,26.8,Tailwind,False,0.0,Night,Handgun,False
+New,196,33.9,Crosswind,False,0.0,Morning,Sniper,True
+Expert,425,14.5,Crosswind,True,18.2,Night,Assault Rifle,False
+Intermediate,504,30.5,Crosswind,True,15.9,Noon,Assault Rifle,False
+New,166,1.0,Headwind,False,0.0,Night,Assault Rifle,False
+New,318,31.0,Crosswind,False,0.0,Morning,Handgun,True
+Intermediate,254,4.9,Headwind,False,0.0,Morning,Handgun,False
+New,879,27.3,Tailwind,False,0.0,Night,Sniper,False
+Intermediate,962,12.0,Headwind,True,23.8,Night,Sniper,True
+New,861,5.6,Tailwind,True,10.8,Night,Assault Rifle,False
+Expert,182,24.5,Headwind,True,9.3,Night,Handgun,False
+Intermediate,837,16.4,Crosswind,True,3.8,Noon,Handgun,True
+Intermediate,746,20.7,Headwind,True,23.0,Morning,Assault Rifle,False
+New,901,5.0,Headwind,False,0.0,Morning,Sniper,True
+Expert,280,13.8,Crosswind,False,0.0,Morning,Assault Rifle,True
+Expert,331,5.0,Tailwind,True,15.1,Morning,Handgun,False
+New,225,26.3,Crosswind,False,0.0,Night,Sniper,False
+New,133,1.8,Crosswind,False,0.0,Night,Sniper,False
+Intermediate,682,25.6,Tailwind,False,0.0,Night,Assault Rifle,False
+Expert,465,11.9,Headwind,True,4.7,Noon,Assault Rifle,True
+Intermediate,671,5.7,Crosswind,False,0.0,Night,Assault Rifle,False
+New,828,14.8,Crosswind,True,9.6,Noon,Sniper,True
+New,194,3.9,Tailwind,False,0.0,Night,Assault Rifle,True
+New,883,13.1,Crosswind,False,0.0,Morning,Sniper,False
+Expert,528,20.0,Tailwind,False,0.0,Morning,Sniper,False
+Expert,518,38.7,Headwind,False,0.0,Morning,Sniper,True
+Expert,953,33.7,Crosswind,False,0.0,Noon,Handgun,True
+New,491,5.4,Tailwind,False,0.0,Noon,Assault Rifle,True
+New,633,22.5,Tailwind,False,0.0,Morning,Assault Rifle,False
+Expert,336,33.0,Crosswind,True,3.9,Morning,Assault Rifle,True
+Intermediate,621,37.6,Headwind,True,18.1,Noon,Handgun,True
+New,190,28.5,Tailwind,False,0.0,Morning,Handgun,False
+New,385,37.3,Tailwind,True,11.8,Night,Handgun,False
+Expert,394,20.3,Crosswind,False,0.0,Night,Handgun,True
+New,427,13.2,Headwind,False,0.0,Night,Assault Rifle,False
+Expert,943,27.5,Headwind,False,0.0,Noon,Handgun,False
+Expert,641,9.1,Headwind,False,0.0,Morning,Handgun,False
+Expert,843,33.6,Headwind,True,0.9,Night,Sniper,True
+Intermediate,371,16.8,Tailwind,True,12.3,Night,Assault Rifle,False
+Expert,794,2.5,Headwind,True,16.8,Night,Assault Rifle,False
+Intermediate,227,18.4,Crosswind,False,0.0,Night,Assault Rifle,False
+Expert,747,25.7,Crosswind,False,0.0,Night,Assault Rifle,True
+New,335,22.3,Headwind,False,0.0,Noon,Handgun,True
+Expert,550,12.7,Tailwind,False,0.0,Noon,Sniper,True
+Expert,438,35.8,Tailwind,False,0.0,Morning,Assault Rifle,True
+Expert,130,13.9,Tailwind,False,0.0,Night,Assault Rifle,True
+Expert,327,37.3,Crosswind,False,0.0,Morning,Sniper,True
+Expert,295,9.7,Crosswind,True,19.1,Morning,Sniper,True
+Expert,533,4.0,Headwind,True,28.9,Morning,Assault Rifle,False
+Intermediate,538,26.0,Tailwind,False,0.0,Noon,Handgun,True
+New,717,23.0,Crosswind,True,27.4,Morning,Assault Rifle,False
+New,991,1.5,Tailwind,False,0.0,Morning,Handgun,False
+Intermediate,947,1.5,Tailwind,True,27.9,Noon,Assault Rifle,False
+Expert,606,21.0,Headwind,False,0.0,Noon,Sniper,False
+Intermediate,216,29.2,Crosswind,False,0.0,Night,Sniper,True
+Intermediate,859,11.8,Crosswind,True,5.3,Night,Assault Rifle,False
+Expert,385,3.5,Crosswind,True,5.5,Morning,Assault Rifle,True
+New,56,10.4,Headwind,False,0.0,Noon,Assault Rifle,True
+Expert,636,0.5,Crosswind,False,0.0,Night,Sniper,True
+New,526,12.3,Tailwind,False,0.0,Night,Sniper,False
+Intermediate,426,24.6,Headwind,True,14.3,Noon,Handgun,False
+Intermediate,475,28.1,Tailwind,True,22.9,Night,Handgun,False
+New,588,17.9,Crosswind,False,0.0,Morning,Handgun,True
+Expert,974,20.2,Crosswind,True,4.9,Night,Assault Rifle,True
+New,784,23.3,Headwind,False,0.0,Morning,Assault Rifle,True
+Intermediate,517,22.6,Crosswind,False,0.0,Night,Assault Rifle,False
+Intermediate,310,32.7,Crosswind,True,17.3,Morning,Assault Rifle,False
+New,604,39.8,Headwind,False,0.0,Morning,Assault Rifle,False
+New,834,25.7,Crosswind,False,0.0,Noon,Assault Rifle,False
+Intermediate,434,3.2,Crosswind,True,19.6,Noon,Sniper,True
+Expert,452,21.2,Crosswind,True,25.0,Morning,Assault Rifle,False
+Expert,607,17.0,Tailwind,True,7.4,Noon,Sniper,True
+Expert,833,4.5,Crosswind,False,0.0,Night,Sniper,True
+New,153,23.8,Tailwind,True,7.3,Morning,Assault Rifle,True
+Expert,272,30.2,Headwind,True,15.1,Noon,Sniper,False
+Expert,639,12.8,Crosswind,False,0.0,Morning,Assault Rifle,False
+Expert,583,8.8,Tailwind,False,0.0,Morning,Handgun,False
+Expert,983,7.0,Crosswind,False,0.0,Night,Assault Rifle,True
+Intermediate,708,26.9,Crosswind,False,0.0,Night,Assault Rifle,True
+Intermediate,435,7.4,Crosswind,False,0.0,Morning,Sniper,True
+Expert,197,32.2,Headwind,False,0.0,Noon,Handgun,False
+Intermediate,298,10.2,Tailwind,True,27.7,Noon,Sniper,False
+New,102,10.7,Crosswind,True,26.2,Morning,Handgun,False
+Expert,272,19.2,Tailwind,False,0.0,Morning,Sniper,False
+Expert,170,29.9,Tailwind,True,20.9,Night,Sniper,True
+New,615,12.9,Tailwind,False,0.0,Noon,Handgun,False
+Intermediate,317,14.4,Tailwind,False,0.0,Morning,Handgun,False
+Intermediate,986,8.1,Tailwind,False,0.0,Morning,Handgun,False
+Expert,199,0.6,Crosswind,False,0.0,Noon,Sniper,True
+New,438,22.8,Headwind,False,0.0,Night,Handgun,False
+Intermediate,313,30.5,Tailwind,False,0.0,Noon,Sniper,False
+Intermediate,223,5.6,Crosswind,False,0.0,Morning,Handgun,False
+New,586,1.4,Headwind,True,22.9,Noon,Sniper,False
+New,119,28.3,Headwind,True,15.2,Noon,Sniper,False
+Expert,681,36.5,Crosswind,False,0.0,Morning,Sniper,True
+Intermediate,62,0.7,Crosswind,False,0.0,Night,Assault Rifle,True
+Expert,740,17.2,Headwind,True,27.5,Night,Sniper,True
+Expert,589,10.1,Tailwind,False,0.0,Noon,Sniper,True
+Intermediate,520,22.6,Crosswind,True,9.0,Morning,Handgun,False
+Expert,827,1.3,Tailwind,False,0.0,Noon,Handgun,False
+Expert,59,28.1,Headwind,False,0.0,Noon,Handgun,False
+Expert,928,39.0,Crosswind,True,6.9,Night,Handgun,False
+New,996,3.0,Tailwind,True,5.4,Noon,Sniper,False
+Expert,197,30.1,Crosswind,False,0.0,Morning,Assault Rifle,True
+New,630,33.4,Tailwind,False,0.0,Noon,Handgun,True
+Expert,791,3.1,Crosswind,False,0.0,Morning,Sniper,True
+New,398,24.2,Crosswind,False,0.0,Noon,Sniper,False
+Intermediate,552,9.1,Crosswind,False,0.0,Noon,Sniper,False
+Expert,439,3.4,Crosswind,False,0.0,Morning,Handgun,True
+Intermediate,207,15.2,Crosswind,True,22.2,Noon,Assault Rifle,True
+New,365,17.8,Tailwind,True,4.0,Morning,Assault Rifle,False
+Expert,574,16.3,Headwind,True,10.6,Morning,Handgun,False
+Intermediate,934,15.4,Tailwind,False,0.0,Noon,Sniper,False
+Expert,976,39.7,Headwind,True,20.6,Morning,Sniper,True
+Intermediate,554,5.8,Headwind,False,0.0,Noon,Assault Rifle,True
+New,419,10.1,Headwind,False,0.0,Night,Handgun,True
+New,188,12.2,Tailwind,False,0.0,Night,Assault Rifle,False
+Intermediate,500,13.4,Crosswind,True,9.0,Night,Handgun,True
+Intermediate,231,38.6,Tailwind,False,0.0,Night,Handgun,False
+Expert,850,9.7,Tailwind,False,0.0,Noon,Assault Rifle,True
+Expert,254,23.7,Crosswind,True,20.5,Night,Sniper,False
+Intermediate,775,8.4,Tailwind,True,24.6,Noon,Handgun,False
+Expert,360,9.7,Crosswind,True,21.5,Noon,Sniper,True
+Expert,540,23.3,Crosswind,False,0.0,Night,Sniper,False
+Intermediate,768,35.8,Crosswind,True,3.3,Morning,Handgun,False
+New,712,24.5,Crosswind,False,0.0,Noon,Assault Rifle,True
+New,314,8.9,Crosswind,True,13.4,Noon,Assault Rifle,False
+Expert,757,20.0,Tailwind,True,14.5,Noon,Assault Rifle,False
+New,168,33.3,Crosswind,True,10.4,Noon,Assault Rifle,False
+Expert,544,13.9,Headwind,False,0.0,Night,Handgun,False
+New,357,1.8,Crosswind,True,0.7,Noon,Handgun,True
+New,808,9.8,Headwind,True,9.9,Noon,Assault Rifle,False
+Intermediate,694,7.4,Crosswind,False,0.0,Noon,Sniper,False
+New,510,23.7,Tailwind,True,21.1,Morning,Assault Rifle,False
+New,641,4.1,Crosswind,True,11.0,Morning,Assault Rifle,False
+Expert,933,19.6,Crosswind,False,0.0,Night,Assault Rifle,False
+Expert,166,13.9,Tailwind,True,24.4,Night,Assault Rifle,False
+Expert,136,26.9,Tailwind,True,7.2,Morning,Sniper,True
+New,573,15.5,Crosswind,True,17.2,Noon,Sniper,False
+Expert,760,36.8,Headwind,True,14.7,Morning,Sniper,False
+Intermediate,684,2.1,Tailwind,True,14.5,Morning,Assault Rifle,False
+Expert,718,19.8,Crosswind,False,0.0,Noon,Handgun,False
+Intermediate,221,3.3,Headwind,True,8.8,Noon,Sniper,True
+New,849,18.3,Crosswind,False,0.0,Night,Handgun,False
+New,324,31.0,Tailwind,True,22.8,Noon,Handgun,False
+Intermediate,154,29.4,Crosswind,True,8.9,Morning,Assault Rifle,True
+New,499,34.6,Headwind,True,6.3,Night,Handgun,False
+Expert,674,25.3,Headwind,True,23.5,Morning,Sniper,False
+Expert,337,23.9,Headwind,False,0.0,Night,Assault Rifle,True
+Intermediate,928,20.6,Crosswind,True,4.1,Noon,Sniper,False
+Expert,179,28.1,Headwind,True,4.4,Noon,Sniper,False
+Expert,452,19.6,Crosswind,False,0.0,Night,Assault Rifle,True
+New,698,31.8,Headwind,False,0.0,Night,Handgun,False
+Intermediate,515,38.0,Tailwind,True,26.1,Night,Sniper,False
+Intermediate,700,26.6,Tailwind,True,23.9,Noon,Sniper,False
+New,556,10.7,Tailwind,False,0.0,Night,Handgun,True
+Intermediate,857,13.7,Crosswind,True,1.4,Night,Assault Rifle,True
+New,501,18.3,Tailwind,True,29.9,Morning,Handgun,False
+Intermediate,145,26.2,Tailwind,True,11.2,Night,Sniper,True
+Expert,362,29.0,Headwind,False,0.0,Night,Sniper,True
+New,268,19.1,Headwind,True,15.6,Noon,Sniper,True
+Intermediate,886,4.8,Tailwind,True,14.3,Morning,Assault Rifle,True
+New,155,12.5,Tailwind,True,11.5,Morning,Handgun,False
+New,120,21.2,Headwind,True,13.2,Night,Sniper,False
+New,991,16.5,Crosswind,False,0.0,Morning,Sniper,False
+New,820,4.9,Crosswind,False,0.0,Noon,Assault Rifle,False
+New,303,11.1,Headwind,True,16.6,Night,Handgun,False
+Expert,77,33.9,Crosswind,False,0.0,Morning,Handgun,False
+New,815,15.7,Crosswind,True,23.5,Morning,Assault Rifle,False
+New,561,25.5,Headwind,True,29.6,Noon,Sniper,False
+Expert,480,14.6,Crosswind,True,22.9,Morning,Sniper,False
+New,318,8.6,Headwind,False,0.0,Night,Assault Rifle,False
+Expert,835,16.6,Crosswind,False,0.0,Morning,Handgun,False
+Expert,206,11.1,Tailwind,True,15.3,Morning,Sniper,False
+Intermediate,650,25.4,Crosswind,True,9.3,Noon,Handgun,False
+New,109,9.8,Tailwind,True,13.6,Night,Sniper,True
+Expert,723,29.6,Headwind,True,21.2,Night,Sniper,True
+New,700,15.2,Headwind,True,15.3,Noon,Sniper,True
+New,279,28.5,Tailwind,False,7.6,Noon,Assault Rifle,True
+New,940,28.2,Crosswind,False,22.4,Noon,Handgun,True
+New,994,1.7,Crosswind,False,19.3,Noon,Handgun,True
+New,766,33.9,Crosswind,False,24.0,Afternoon,Sniper,True
+New,380,9.7,Crosswind,True,28.0,Morning,Sniper,True
+New,342,30.4,Tailwind,False,1.3,Morning,Sniper,True
+New,245,22.3,Headwind,True,6.7,Morning,Assault Rifle,True
+New,767,3.4,Crosswind,True,8.7,Night,Handgun,True
+New,616,14.8,Headwind,False,26.3,Evening,Assault Rifle,True
+New,224,2.9,Headwind,True,1.6,Afternoon,Handgun,True
+New,270,6.4,Crosswind,False,20.3,Night,Sniper,True
+New,482,2.7,Crosswind,False,20.6,Night,Handgun,True
+New,307,28.6,Headwind,True,7.6,Afternoon,Handgun,True
+New,163,23.7,Crosswind,True,6.6,Noon,Sniper,True
+New,349,20.4,Tailwind,False,7.3,Morning,Sniper,True
+New,167,15.5,Tailwind,True,19.5,Night,Assault Rifle,True
+New,307,16.8,Tailwind,False,15.4,Evening,Handgun,True
+New,628,19.0,Crosswind,True,16.6,Noon,Handgun,True
+New,172,29.7,Headwind,False,19.5,Afternoon,Sniper,True
+New,584,3.3,Headwind,True,18.2,Evening,Assault Rifle,True
+New,976,2.9,Crosswind,False,12.1,Afternoon,Handgun,True
+New,503,6.2,Crosswind,True,15.9,Afternoon,Assault Rifle,True
+New,546,32.9,Crosswind,True,20.8,Morning,Handgun,True
+New,545,13.0,Crosswind,False,0.1,Night,Handgun,True
+New,916,2.6,Headwind,True,5.4,Morning,Sniper,True
+New,876,30.4,Tailwind,True,17.4,Afternoon,Assault Rifle,True
+New,258,9.8,Headwind,True,20.6,Noon,Sniper,True
+New,831,20.2,Crosswind,False,29.5,Afternoon,Sniper,True
+New,735,12.5,Headwind,True,10.2,Morning,Handgun,True
+New,375,29.0,Crosswind,False,1.5,Afternoon,Handgun,True
+New,167,33.4,Crosswind,True,0.2,Evening,Assault Rifle,True
+New,752,34.1,Headwind,False,20.8,Night,Sniper,True
+New,458,21.7,Crosswind,True,27.1,Night,Handgun,True
+New,875,9.0,Crosswind,False,5.6,Evening,Handgun,True
+New,677,28.6,Tailwind,False,7.3,Evening,Sniper,True
+New,243,11.9,Tailwind,False,27.4,Afternoon,Sniper,True
+New,451,17.6,Crosswind,False,0.4,Night,Assault Rifle,True
+New,848,12.3,Tailwind,True,10.6,Evening,Handgun,True
+New,773,13.6,Tailwind,False,1.3,Morning,Handgun,True
+New,410,13.2,Headwind,False,20.5,Evening,Assault Rifle,False
+New,513,3.4,Headwind,False,11.0,Night,Assault Rifle,False
+New,834,11.5,Headwind,True,20.4,Night,Assault Rifle,False
+New,130,18.1,Crosswind,True,20.0,Morning,Handgun,False
+New,311,8.0,Crosswind,True,18.0,Morning,Sniper,False
+New,465,8.2,Crosswind,True,3.8,Night,Handgun,False
+New,161,2.8,Tailwind,False,25.6,Evening,Assault Rifle,False
+New,376,10.4,Crosswind,False,17.1,Night,Sniper,False
+New,566,7.5,Crosswind,True,27.1,Night,Assault Rifle,False
+New,945,11.7,Crosswind,True,0.9,Noon,Sniper,False
+New,984,27.1,Crosswind,True,14.9,Morning,Assault Rifle,False
+New,838,3.5,Tailwind,False,26.2,Noon,Handgun,False
+New,384,23.9,Tailwind,True,9.8,Evening,Handgun,False
+New,844,31.8,Crosswind,True,1.2,Morning,Handgun,False
+New,664,29.4,Headwind,True,19.0,Night,Assault Rifle,False
+New,983,15.7,Headwind,True,3.1,Evening,Handgun,False
+New,139,3.3,Tailwind,True,15.1,Morning,Sniper,False
+New,746,2.5,Headwind,True,29.7,Afternoon,Sniper,False
+New,609,5.5,Tailwind,False,6.6,Morning,Handgun,False
+New,764,20.1,Crosswind,False,14.5,Afternoon,Assault Rifle,False
+New,286,0.3,Headwind,False,17.0,Evening,Sniper,False
+New,298,8.9,Headwind,True,21.3,Afternoon,Handgun,False
+New,872,18.2,Headwind,False,28.9,Night,Handgun,False
+New,341,14.0,Crosswind,True,4.8,Afternoon,Sniper,False
+New,185,9.3,Tailwind,False,4.6,Afternoon,Assault Rifle,False
+New,781,34.5,Crosswind,True,24.5,Noon,Handgun,False
+New,350,6.0,Tailwind,False,24.5,Noon,Handgun,False
+New,103,32.7,Crosswind,False,28.5,Afternoon,Assault Rifle,False
+New,546,8.4,Headwind,False,1.1,Afternoon,Handgun,False
+New,155,30.9,Tailwind,False,18.5,Morning,Sniper,False
+New,854,0.9,Headwind,False,17.1,Noon,Assault Rifle,False
+New,432,6.3,Headwind,True,18.3,Noon,Assault Rifle,False
+New,871,21.6,Crosswind,True,28.1,Night,Handgun,False
+New,138,7.1,Tailwind,False,28.2,Afternoon,Sniper,False
+New,893,34.6,Headwind,False,11.6,Morning,Assault Rifle,False
+New,984,19.9,Tailwind,False,14.0,Evening,Sniper,False
+New,657,20.2,Crosswind,False,13.9,Night,Assault Rifle,False
+New,291,26.7,Crosswind,True,7.1,Evening,Assault Rifle,False
+New,354,24.5,Headwind,False,28.3,Afternoon,Assault Rifle,False
+New,283,27.4,Crosswind,False,8.7,Evening,Assault Rifle,False
+Intermediate,451,23.2,Crosswind,True,2.5,Evening,Assault Rifle,True
+Intermediate,291,23.5,Tailwind,True,13.3,Morning,Sniper,True
+Intermediate,994,3.8,Crosswind,True,21.7,Noon,Sniper,True
+Intermediate,958,22.3,Headwind,True,4.3,Morning,Handgun,True
+Intermediate,970,31.6,Crosswind,False,2.7,Afternoon,Assault Rifle,True
+Intermediate,516,0.6,Headwind,True,22.7,Morning,Sniper,True
+Intermediate,366,34.5,Crosswind,True,0.7,Morning,Sniper,True
+Intermediate,113,19.7,Headwind,False,4.3,Evening,Assault Rifle,True
+Intermediate,594,26.5,Tailwind,False,13.3,Evening,Assault Rifle,True
+Intermediate,105,33.4,Tailwind,True,25.6,Noon,Sniper,True
+Intermediate,834,18.2,Tailwind,False,12.4,Evening,Assault Rifle,True
+Intermediate,829,31.9,Tailwind,False,4.9,Morning,Assault Rifle,True
+Intermediate,708,1.2,Headwind,True,19.8,Noon,Assault Rifle,True
+Intermediate,562,7.5,Headwind,False,17.5,Afternoon,Assault Rifle,True
+Intermediate,178,17.1,Headwind,True,20.8,Noon,Handgun,True
+Intermediate,174,31.5,Tailwind,True,1.5,Evening,Handgun,True
+Intermediate,499,8.0,Tailwind,False,17.1,Evening,Assault Rifle,True
+Intermediate,749,1.8,Tailwind,True,19.7,Afternoon,Assault Rifle,True
+Intermediate,325,17.3,Crosswind,True,10.8,Night,Handgun,True
+Intermediate,526,16.2,Crosswind,True,26.1,Night,Sniper,True
+Intermediate,729,33.5,Headwind,False,17.8,Noon,Assault Rifle,True
+Intermediate,699,22.4,Tailwind,False,1.4,Night,Handgun,True
+Intermediate,727,19.9,Tailwind,True,8.2,Afternoon,Handgun,True
+Intermediate,735,18.6,Headwind,True,22.2,Evening,Assault Rifle,True
+Intermediate,384,19.0,Crosswind,False,9.8,Afternoon,Assault Rifle,True
+Intermediate,772,7.8,Crosswind,False,24.5,Morning,Handgun,True
+Intermediate,385,2.2,Headwind,True,25.0,Night,Sniper,True
+Intermediate,239,7.4,Crosswind,False,6.2,Noon,Sniper,True
+Intermediate,658,16.9,Headwind,True,1.2,Evening,Assault Rifle,True
+Intermediate,770,22.7,Tailwind,False,18.3,Noon,Assault Rifle,True
+Intermediate,208,31.6,Headwind,False,23.7,Morning,Sniper,True
+Intermediate,208,34.9,Tailwind,False,4.5,Afternoon,Sniper,True
+Intermediate,635,13.6,Crosswind,False,7.4,Noon,Handgun,True
+Intermediate,938,2.8,Headwind,True,14.4,Noon,Sniper,True
+Intermediate,630,13.7,Headwind,False,21.8,Morning,Sniper,True
+Intermediate,689,15.3,Headwind,False,8.5,Evening,Assault Rifle,True
+Intermediate,690,23.6,Crosswind,True,9.3,Noon,Sniper,True
+Intermediate,743,23.4,Headwind,True,3.6,Night,Handgun,True
+Intermediate,265,23.5,Crosswind,False,9.3,Noon,Sniper,True
+Intermediate,730,28.0,Headwind,False,10.0,Noon,Handgun,True
+Intermediate,192,9.6,Headwind,False,2.3,Afternoon,Handgun,False
+Intermediate,600,8.9,Tailwind,True,26.7,Afternoon,Assault Rifle,False
+Intermediate,696,34.2,Tailwind,True,17.5,Noon,Handgun,False
+Intermediate,172,1.4,Headwind,False,15.6,Night,Sniper,False
+Intermediate,983,19.5,Headwind,True,7.4,Night,Assault Rifle,False
+Intermediate,157,10.3,Tailwind,False,17.7,Evening,Assault Rifle,False
+Intermediate,104,2.5,Crosswind,True,16.2,Evening,Sniper,False
+Intermediate,932,10.8,Headwind,True,7.7,Morning,Sniper,False
+Intermediate,477,27.8,Crosswind,True,5.7,Noon,Sniper,False
+Intermediate,285,10.4,Crosswind,True,29.6,Noon,Sniper,False
+Intermediate,159,31.3,Crosswind,True,26.6,Morning,Handgun,False
+Intermediate,538,25.0,Tailwind,False,11.1,Afternoon,Assault Rifle,False
+Intermediate,863,18.9,Tailwind,True,11.0,Evening,Assault Rifle,False
+Intermediate,855,9.3,Tailwind,False,26.7,Morning,Assault Rifle,False
+Intermediate,673,8.2,Crosswind,False,16.3,Afternoon,Handgun,False
+Intermediate,513,6.8,Tailwind,False,29.8,Morning,Handgun,False
+Intermediate,771,29.5,Crosswind,True,21.9,Noon,Handgun,False
+Intermediate,815,29.3,Crosswind,False,27.0,Morning,Sniper,False
+Intermediate,953,22.7,Headwind,True,16.4,Evening,Handgun,False
+Intermediate,267,3.0,Tailwind,False,26.6,Night,Assault Rifle,False
+Intermediate,507,25.8,Crosswind,False,25.3,Evening,Sniper,False
+Intermediate,292,31.7,Headwind,False,6.4,Night,Handgun,False
+Intermediate,914,9.8,Tailwind,False,2.3,Night,Assault Rifle,False
+Intermediate,108,14.6,Crosswind,False,14.1,Evening,Assault Rifle,False
+Intermediate,491,31.0,Headwind,True,13.8,Afternoon,Sniper,False
+Intermediate,273,32.1,Tailwind,True,17.3,Night,Sniper,False
+Intermediate,760,30.4,Headwind,False,1.2,Morning,Handgun,False
+Intermediate,611,1.9,Tailwind,False,22.4,Afternoon,Handgun,False
+Intermediate,407,6.2,Tailwind,False,1.7,Night,Handgun,False
+Intermediate,200,14.3,Crosswind,False,19.3,Afternoon,Handgun,False
+Intermediate,703,30.3,Headwind,True,24.3,Afternoon,Handgun,False
+Intermediate,557,22.7,Headwind,True,21.5,Afternoon,Handgun,False
+Intermediate,793,12.5,Headwind,True,3.4,Night,Sniper,False
+Intermediate,735,29.8,Headwind,False,23.3,Afternoon,Assault Rifle,False
+Intermediate,826,4.1,Tailwind,False,20.8,Evening,Handgun,False
+Intermediate,896,2.1,Tailwind,False,2.7,Noon,Sniper,False
+Intermediate,448,8.9,Crosswind,True,15.9,Morning,Sniper,False
+Intermediate,303,13.6,Headwind,False,5.4,Noon,Assault Rifle,False
+Intermediate,658,9.0,Headwind,True,29.2,Afternoon,Sniper,False
+Intermediate,653,34.9,Headwind,True,4.3,Morning,Handgun,False
+Expert,977,17.2,Headwind,True,20.1,Night,Handgun,True
+Expert,688,0.4,Headwind,False,29.4,Night,Assault Rifle,True
+Expert,186,15.2,Crosswind,True,26.7,Night,Assault Rifle,True
+Expert,856,6.0,Tailwind,True,26.8,Night,Assault Rifle,True
+Expert,254,3.0,Crosswind,False,18.8,Afternoon,Handgun,True
+Expert,881,24.7,Crosswind,False,18.5,Evening,Assault Rifle,True
+Expert,350,24.8,Crosswind,False,23.6,Noon,Sniper,True
+Expert,989,6.2,Crosswind,True,22.8,Noon,Assault Rifle,True
+Expert,998,20.7,Tailwind,False,11.2,Night,Handgun,True
+Expert,283,26.8,Tailwind,False,17.0,Noon,Handgun,True
+Expert,570,30.4,Crosswind,False,27.0,Noon,Sniper,True
+Expert,372,24.6,Crosswind,True,28.6,Afternoon,Handgun,True
+Expert,261,5.5,Tailwind,False,5.9,Noon,Handgun,True
+Expert,351,13.7,Tailwind,False,13.0,Noon,Assault Rifle,True
+Expert,560,5.5,Headwind,True,11.9,Night,Sniper,True
+Expert,295,15.8,Crosswind,True,28.3,Morning,Assault Rifle,True
+Expert,212,11.9,Headwind,True,15.1,Night,Sniper,True
+Expert,932,16.9,Tailwind,True,3.6,Morning,Assault Rifle,True
+Expert,820,5.1,Crosswind,False,26.1,Night,Sniper,True
+Expert,900,26.8,Headwind,False,10.3,Afternoon,Sniper,True
+Expert,138,0.9,Headwind,False,13.1,Night,Handgun,True
+Expert,158,16.3,Crosswind,False,7.6,Evening,Assault Rifle,True
+Expert,112,27.0,Crosswind,False,8.6,Afternoon,Handgun,True
+Expert,404,27.6,Tailwind,False,1.4,Evening,Handgun,True
+Expert,341,10.1,Crosswind,True,27.2,Noon,Sniper,True
+Expert,440,8.6,Tailwind,False,15.7,Morning,Sniper,True
+Expert,240,17.7,Crosswind,False,7.3,Afternoon,Handgun,True
+Expert,143,4.6,Crosswind,False,26.6,Evening,Assault Rifle,True
+Expert,747,5.3,Crosswind,False,19.6,Morning,Assault Rifle,True
+Expert,516,2.6,Headwind,True,15.3,Noon,Sniper,True
+Expert,948,7.5,Headwind,False,27.1,Noon,Assault Rifle,True
+Expert,457,5.9,Headwind,False,25.0,Night,Assault Rifle,True
+Expert,268,24.3,Headwind,True,1.4,Night,Handgun,True
+Expert,393,22.4,Headwind,False,28.1,Morning,Handgun,True
+Expert,881,3.2,Headwind,True,23.3,Noon,Assault Rifle,True
+Expert,897,14.5,Tailwind,False,3.7,Evening,Handgun,True
+Expert,782,8.4,Headwind,False,8.8,Evening,Sniper,True
+Expert,217,11.0,Crosswind,True,25.3,Afternoon,Sniper,True
+Expert,395,15.2,Tailwind,True,1.9,Afternoon,Assault Rifle,True
+Expert,240,1.4,Crosswind,False,18.7,Night,Handgun,True
+Expert,992,7.6,Headwind,False,6.8,Night,Sniper,False
+Expert,138,21.2,Tailwind,False,28.2,Evening,Assault Rifle,False
+Expert,187,13.3,Tailwind,True,25.5,Morning,Assault Rifle,False
+Expert,309,29.5,Crosswind,True,11.7,Night,Handgun,False
+Expert,824,0.5,Headwind,False,24.9,Night,Handgun,False
+Expert,294,22.4,Tailwind,False,13.9,Night,Sniper,False
+Expert,317,34.6,Crosswind,True,24.7,Noon,Sniper,False
+Expert,208,28.4,Headwind,True,5.5,Noon,Assault Rifle,False
+Expert,269,30.3,Headwind,False,18.9,Morning,Handgun,False
+Expert,824,25.5,Tailwind,False,29.5,Afternoon,Sniper,False
+Expert,332,29.7,Headwind,True,29.9,Morning,Assault Rifle,False
+Expert,545,18.0,Tailwind,False,21.6,Evening,Handgun,False
+Expert,463,21.7,Headwind,False,10.8,Night,Assault Rifle,False
+Expert,717,9.3,Crosswind,False,17.3,Night,Assault Rifle,False
+Expert,522,25.8,Tailwind,True,25.2,Night,Assault Rifle,False
+Expert,530,21.5,Headwind,False,1.9,Noon,Sniper,False
+Expert,736,22.3,Crosswind,True,2.2,Evening,Handgun,False
+Expert,417,29.0,Crosswind,False,4.8,Evening,Handgun,False
+Expert,847,8.0,Headwind,True,24.5,Night,Assault Rifle,False
+Expert,427,0.6,Tailwind,True,20.1,Night,Assault Rifle,False
+Expert,494,25.0,Headwind,True,21.7,Evening,Sniper,False
+Expert,842,4.1,Crosswind,True,15.5,Noon,Sniper,False
+Expert,536,26.8,Headwind,True,18.7,Morning,Assault Rifle,False
+Expert,524,18.0,Tailwind,True,1.4,Night,Assault Rifle,False
+Expert,693,14.1,Headwind,True,20.2,Noon,Assault Rifle,False
+Expert,487,16.8,Tailwind,True,3.4,Evening,Assault Rifle,False
+Expert,459,14.1,Tailwind,True,0.5,Noon,Handgun,False
+Expert,134,13.9,Headwind,True,22.6,Morning,Sniper,False
+Expert,927,26.4,Headwind,True,6.2,Morning,Handgun,False
+Expert,114,14.8,Tailwind,False,4.5,Night,Handgun,False
+Expert,831,34.3,Tailwind,False,9.8,Night,Sniper,False
+Expert,133,27.2,Tailwind,True,0.9,Afternoon,Assault Rifle,False
+Expert,895,0.1,Crosswind,False,4.0,Evening,Sniper,False
+Expert,406,30.3,Headwind,True,17.0,Noon,Assault Rifle,False
+Expert,773,17.8,Tailwind,True,23.6,Night,Assault Rifle,False
+Expert,773,20.1,Crosswind,False,18.2,Afternoon,Assault Rifle,False
+Expert,398,9.5,Crosswind,False,27.2,Morning,Handgun,False
+Expert,238,21.2,Tailwind,True,16.2,Night,Handgun,False
+Expert,855,24.0,Headwind,True,19.4,Night,Assault Rifle,False
+Expert,720,17.5,Crosswind,False,6.2,Night,Handgun,False
